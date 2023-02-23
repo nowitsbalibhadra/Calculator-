@@ -13,3 +13,6 @@ This is a simple calculator app that performs basic arithmetic operations such a
 - Addition, subtraction, multiplication, and division
 - Reset button to reset the display
 - Toggle Multiple Themes
+## Live Link
+
+[Here is the live site](https://balibhadracalculator.netlify.app/)
